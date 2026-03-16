@@ -7,6 +7,7 @@ Portfólio pessoal desenvolvido para centralizar projetos, estudos e experiênci
 Este projeto tem como objetivo servir como um ponto central de apresentação profissional, permitindo a exibição dinâmica de projetos, habilidades técnicas e certificações, sem a necessidade de alterações frequentes no código-fonte.
 
 🔗 Acesse o portfólio online:
+https://julia-bc.github.io/Portif-lio/
 
 
 ## 🧠 Conceito
